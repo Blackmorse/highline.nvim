@@ -1,5 +1,5 @@
-lua require'highlights'.init_highlights()
-lua require'highlights'.run_autocommands()
+lua require'highline'.init_highlights()
+lua require'highline'.run_autocommands()
 
-command! Highline lua require'highlights'.highlight()<CR>
+command! Highline lua require'highline'.highlight()<CR>
 
