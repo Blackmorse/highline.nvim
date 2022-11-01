@@ -17,4 +17,4 @@ Plug 'Blackmorse/highline.nvim'
 
 Use a command `:Highline` to highlight the line under you cursor!
 
-
+![](https://github.com/Blackmorse/highline.nvim/blob/main/highline.gif)
