@@ -4,7 +4,7 @@ Neovim plugin for highlighting the lines
 ## Installation
 ### Using packer
 ```
-use 'wbthomason/packer.nvim'
+use 'Blackmorse/highline.nvim'
 ```
 
 ### Using vim-plug
