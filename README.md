@@ -1,5 +1,6 @@
 # highline.nvim
 Neovim plugin for highlighting the lines
+Just a demo for the medium article: https://medium.com/@ankochem/neovim-highlighting-the-text-programmatically-with-lua-837fecfa36d2
 
 ## Installation
 ### Using packer
